@@ -1,0 +1,13 @@
+qa.env
+
+talisman_report/
+
+**/__pycache__
+
+.idea
+
+.zed
+
+.env
+
+.DS_Store
